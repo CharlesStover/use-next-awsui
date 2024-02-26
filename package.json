@@ -1,9 +1,9 @@
 {
   "name": "use-next-awsui",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Charles Stover <use-next-awsui@charlesstover.com>",
   "description": "a collection of React hooks to integrate Next with AWSUI",
-  "homepage": "https://github.com/CharlesStover/use-next-awsui/tree/main/packages/use-next-awsui#readme",
+  "homepage": "https://github.com/CharlesStover/use-next-awsui/",
   "license": "MIT",
   "main": "./dist/index.js",
   "repository": "github:CharlesStover/use-next-awsui",
