@@ -1,0 +1,10 @@
+/.yarn/sdks/
+/.yarn/unplugged/
+/.yarn/install-state.gz
+/dist/
+/jest/
+/.pnp.*
+/*.iml
+/*.tsbuildinfo
+/*-*.*.*.tgz
+/tsc-output.cpuprofile
